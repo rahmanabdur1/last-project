@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins',sans-serif;
+}
+#header{
+    margin: 0px;
+    min-height: 68vh;
+    width: 100%;
+    background-image: url(imag2/flood1.jpeg);
+    background-position: center;
+    position: relative;
+}
+.banner-text{
+    text-align: center;
+    color: #fff ;
+    padding: 155px;
+}
+.banner-text>h1{
+    font-size: 40px;
+}
+.banner-text>p{
+    font-size:20px;
+    padding: 16px;
+
+}
+.link-button{
+    color: #fff;
+    padding:10px;
+    color: none;
+    background-color: deeppink;
+    text-decoration: none;
+    font-weight: 700px;
+    background-image: linear-gradient(orange, tomato);
+    
+}
