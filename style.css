@@ -5,7 +5,7 @@
 }
 #header{
     margin: 0px;
-    min-height: 68vh;
+    min-height: 48vh;
     width: 100%;
     background-image: url(imag2/flood1.jpeg);
     background-position: center;
@@ -28,9 +28,90 @@
     color: #fff;
     padding:10px;
     color: none;
-    background-color: deeppink;
+
     text-decoration: none;
     font-weight: 700px;
     background-image: linear-gradient(orange, tomato);
     
+}
+.donate-now{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.container .shadow1{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 24px;
+    background-color: ghostwhite;
+    box-shadow: none;
+
+}
+
+.container .shadow3{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 24px;
+    background-color: ghostwhite;
+    box-shadow: none;
+}
+.container .shadow4{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 24px;
+    background-color: ghostwhite;
+    box-shadow: none;
+}
+.container .shadow5{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 24px;
+    background-color: ghostwhite;
+    box-shadow: none;
+}
+.container .shadow2{
+    box-sizing: border-box;
+    border: 2px solid;
+    color: crimson;
+    padding: 20px;
+    margin: 24px;
+    
+    width: 100px;
+    background-color: antiquewhite;
+    
+    
+    
+    box-shadow: none;
+    
+}
+.h{
+    text-align: center;
+    
+    
+}
+.h >hr{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+}
+    
+    
+
+.link-button2{
+    text-align: center;
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 5px;
+    
+}
+.button{
+    text-align: center;
+    margin-top: 10px;
 }
