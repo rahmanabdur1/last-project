@@ -160,9 +160,10 @@ background-color: cornsilk;
 .half-width{
     width: 70%;
     padding-left: 2%;
+    padding-right: 4%;
 }
 .half-width img{
-    width:85%
+    width:95%
 
 }
 .contribute{
@@ -183,4 +184,23 @@ background-color: cornsilk;
 .half-width>h1{
 font-size: 26px;
 }
+.contribute-3{
+    display: flex;
+    margin-top: 41px;
+}
 
+.half-width2 img{
+    width: 75%;
+    padding-left: 3%;
+}
+.half-width2{
+    width: 70%;
+    padding-right: 2%;
+}
+.link-button3{
+    text-decoration: none;
+    color: #fff;
+    padding: 4px;
+    background-color: red;
+    margin-top: 15px;
+}
