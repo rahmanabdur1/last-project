@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
     font-family: 'poppins',sans-serif;
+
+
+  
+
 }
 #header{
     margin: 0px;
@@ -98,7 +102,8 @@ justify-content: center;
 .h >hr{
     
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 200px
+    
 }
     
     
@@ -114,4 +119,48 @@ justify-content: center;
 .button{
     text-align: center;
     margin-top: 10px;
+}
+.donate-plan{
+    text-align: center;
+    margin-top: 50px;
+}
+.container2{
+text-align: center;
+margin-top: 39px;
+}
+.row{
+    display: flex;
+}
+.service1{
+    text-align: center;
+background-color: aliceblue;
+box-shadow: none;
+padding: 20px;
+margin: 20px;
+box-sizing: border-box;
+}
+.service1>materials-icons{
+    text-align: left;
+}
+.service2{
+    text-align: center;
+    background-color:bisque;
+    box-shadow: none;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+.service2>materials-icons{
+    text-align: left;
+}
+.service3{
+    text-align: center;
+background-color: cornsilk;
+    box-shadow: none;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+.service3>metarials-icons{
+    text-align: left;
 }
