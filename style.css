@@ -139,9 +139,7 @@ padding: 20px;
 margin: 20px;
 box-sizing: border-box;
 }
-.service1>materials-icons{
-    text-align: left;
-}
+
 .service2{
     text-align: center;
     background-color:bisque;
@@ -150,9 +148,7 @@ box-sizing: border-box;
     padding: 20px;
     margin: 20px;
 }
-.service2>materials-icons{
-    text-align: left;
-}
+
 .service3{
     text-align: center;
 background-color: cornsilk;
@@ -161,6 +157,30 @@ background-color: cornsilk;
     padding: 20px;
     margin: 20px;
 }
-.service3>metarials-icons{
-    text-align: left;
+.half-width{
+    width: 70%;
+    padding-left: 2%;
 }
+.half-width img{
+    width:85%
+
+}
+.contribute{
+    display: flex;
+    margin-top: 30px;
+}
+.link-button3{
+    text-decoration:none ;
+    text-align: center;
+    padding: 4px;
+    background-color: red;
+    color: #fff;
+    margin-top: 20px;
+    
+    
+    border-radius: 5px;
+}
+.half-width>h1{
+font-size: 26px;
+}
+
