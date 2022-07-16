@@ -51,8 +51,8 @@ justify-content: center;
 
 .container .shadow1{
     box-sizing: border-box;
-    padding: 20px;
-    margin: 24px;
+    padding: 18px;
+    margin: 20px;
     background-color: ghostwhite;
     box-shadow: none;
 
@@ -60,22 +60,22 @@ justify-content: center;
 
 .container .shadow3{
     box-sizing: border-box;
-    padding: 20px;
-    margin: 24px;
+    padding: 18px;
+    margin: 20px;
     background-color: ghostwhite;
     box-shadow: none;
 }
 .container .shadow4{
     box-sizing: border-box;
-    padding: 20px;
-    margin: 24px;
+    padding: 18px;
+    margin: 20px;
     background-color: ghostwhite;
     box-shadow: none;
 }
 .container .shadow5{
     box-sizing: border-box;
-    padding: 20px;
-    margin: 24px;
+    padding: 18px;
+    margin: 20px;
     background-color: ghostwhite;
     box-shadow: none;
 }
@@ -83,10 +83,10 @@ justify-content: center;
     box-sizing: border-box;
     border: 2px solid;
     color: crimson;
-    padding: 20px;
-    margin: 24px;
+    padding: 18px;
+    margin: 20px;
     
-    width: 100px;
+    width: 95px;
     background-color: antiquewhite;
     
     
@@ -234,4 +234,13 @@ form button{
     border: none;
     outline: none;
 
+}
+.my-footer{
+    background-color: black;
+    height: 10vh;
+    margin-top: 20px;
+    
+}
+.my-footer>h3{
+    text-align: center;
 }
