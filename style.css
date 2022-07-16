@@ -204,3 +204,34 @@ font-size: 26px;
     background-color: red;
     margin-top: 15px;
 }
+.my-update{
+    text-align: center;
+    margin-top: 29px;
+}
+.my-update p{
+margin-top: 17px
+}
+.box{
+background-color: blanchedalmond;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    margin-left: 139px;
+    margin-right: 139px;
+}
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+
+}
+form button{
+    background: red;
+    text-decoration:none;
+    color: #fff;
+    border: none;
+    outline: none;
+
+}
